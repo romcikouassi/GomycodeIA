@@ -1,0 +1,2 @@
+# GomycodeIA
+projet of IA
